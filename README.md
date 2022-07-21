@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Terrapin93
 - 👀 I’m interested in many things. I'm currently just playing with Python.
-- 🌱 I’m currently a student in a Fullstack Academy cyber bootcamp, which will conclude at the end of July 2022.
+- 🌱 I’m a recent graduate of a Virginia Tech\Fullstack Academy cyber bootcamp (concluded at the end of July 2022) and am currently seeking information security/SOC analyst opportunities.
 <!--- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me: discord @ Terrapin93#5111
+- 📫 How to reach me: on LinkedIn @ linkedin.com/in/davidirish or discord @ Terrapin93#5111
 
 <!---
 Terrapin93/Terrapin93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
